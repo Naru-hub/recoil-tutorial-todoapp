@@ -1,4 +1,5 @@
 import React from "react";
+import "./InputTask.css";
 
 const InputTask = () => {
   return (
